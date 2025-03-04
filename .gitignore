@@ -1,0 +1,21 @@
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+env/
+venv/
+.env
+.env.local
+.DS_Store           # macOS Finder metadata
+Thumbs.db           # Windows Explorer thumbnails
+*.log               # Log files
+dist/               # Build artifacts (frontend/backend)
+build/              # Build output
+.cache/             # Cache folders
+# VS Code
+.vscode/
+# Python pipenv
+Pipfile.lock
+private.txt
+secrets.json
+config.local.json
